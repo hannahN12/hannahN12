@@ -2,8 +2,8 @@
 
 잔디농장을 키워나가는 노한나입니다.
 
-🌱 I’m currently learning python
-🔭 I’m currently working on Django Project
+- 🌱 I’m currently learning python
+- 🔭 I’m currently working on Django Project
 <!--
 **hannahN12/hannahN12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
