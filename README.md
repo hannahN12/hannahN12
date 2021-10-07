@@ -2,7 +2,7 @@
 
 잔디농장을 키워나가는 노한나입니다.
 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python
 - 🔭 I’m currently working on Django Project
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannahN12)](https://github.com/anuraghazra/github-readme-stats) -->
