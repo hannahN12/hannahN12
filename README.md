@@ -1,3 +1,6 @@
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhannahN12%2Fhit-counter&count_bg=%23E0B3E7&title_bg=%23D138B3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 ###  안녕하세요! 😃👋
 
 잔디농장을 키워나가는 노한나입니다.
