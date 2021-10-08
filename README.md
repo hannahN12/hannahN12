@@ -10,7 +10,8 @@
 <!-- - 💕 How to reach me
   - 블로그 : https://velog.io/@hees1212
   - 이메일 : hee_hannah@naver.com
-   -->
+테크 스펙에는 해본거적는게아니라 잘하는거적어야   
+-->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannahN12)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannahN12&show_icons=true&theme=Gradient)
 
